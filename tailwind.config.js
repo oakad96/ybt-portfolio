@@ -6,6 +6,7 @@ module.exports = {
       colors: {
         dark: "#212529",
         medium: "#adb5bd",
+        mediumAlt: "rgb(209 213 219)",
         light: "#f8f9fa",
       },
       backgroundImage: {

@@ -24,7 +24,7 @@ export function Greeting({ aboutImg }) {
             Innovative, diligent, and tech-savvy Mining Engineer
           </h2>
           <button
-            className="bg-dark text-light flex flex-row p-4 rounded-full mt-10 mr-8 self-end shadow-md active:scale-95 hover-darken hover:bg-gray-300 hover:-translate-y-0.5 transition"
+            className="bg-dark text-light flex flex-row p-4 rounded-full mt-10 mr-8 self-end shadow-md active:scale-95 hover-darken hover:bg-mediumAlt hover:-translate-y-0.5 transition"
             onClick={() => {
               document
                 .getElementById("About")
